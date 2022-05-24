@@ -9,6 +9,8 @@ h1 {
 	width: 100%;
 }
 p {
+	position: relative;
+	text-align: right;
 	border: 1px solid black;
 	background-color: #A52A2A;
 	width: 90%;
